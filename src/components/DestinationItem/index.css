@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.Image {
+  height: 80px;
+  width: 100px;
+  border-radius: 12px;
+}
+.image-name {
+  font-size: 10px;
+  color: #000000;
+  font-family: 'Roboto';
+}
+.list-container {
+  list-style-type: none;
+  margin-right: 50px;
+}
